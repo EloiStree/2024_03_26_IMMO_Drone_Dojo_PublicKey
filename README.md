@@ -19,18 +19,22 @@ If you want to participate at rare eSport tournament in our game, you need an Et
 - Send us by private message your public key and the integer you want to have.
 - It will be add to this git and mirror in the Data base.
 
-### Student
-
-We don't provide student keys.
-Because the objectif is to keep it low cost.
-
-But if you are a student in during one of our remunared workshop.
-A key claim will be given to you.
-
 ### You want to stay anonmye ?
 
 We don't have yet  a system for that.
 But I could in the future use Ethereum to check the credit your address send to the Integer Games Wallet.
+Then allows use through your favorite channel to claim your integer.
+
+
+### Student
+
+We don't provide student keys.  
+Shared server cost must be spread around users and future sponsors.    
+The goal is to keep the subscription to a low symbolic price.  
+But we can't pay for 100.000 to 8 millions future user.
+
+If you are a student during one of our remunared workshop.
+A key claim will be given to you.
 
 
 ### What can I do with my Key ?
@@ -43,3 +47,13 @@ Just enough for small Iot project and home remote control like project.
 Be a subscriber? 
 Contact us to link your key to your Twitch or Tipeee account in this git.
 (Not automatic yet)
+
+
+## Life time claim ?
+
+Yes and no. The maximum key of the server can in theory handle is 4.294.967.295 (0xffffffff) Max range of an interer array ;)-  
+An integer that is not use once is flush and reclaimable.
+
+
+
+
